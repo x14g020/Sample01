@@ -5,7 +5,7 @@ public class Sample01 {
 
 		//Gitテスト
 		//GitTest2
-		System.out.println("aaa");
+		System.out.println("aa");
 
 	}
 
